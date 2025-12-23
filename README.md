@@ -18,3 +18,5 @@ This project is designed to be hosted on GitHub Pages or Netlify.
 - PeerJS provides end-to-end encrypted data channels.
 - Your identity is ephemeral and resets on every page reload.
 - The app only has access to files you explicitly select via the browser's sandbox.
+
+Live demo: https://lordvamp9.github.io/Airdrop-local/

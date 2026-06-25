@@ -27,4 +27,4 @@ This project is designed to be hosted on Netlify as a static site.
 - Your identity is ephemeral and resets on every page reload.
 - The app only has access to files you explicitly select via the browser's sandbox.
 
-Live demo: https://lordvamp9.github.io/Airdrop-local/
+Live demo: https://airdrop-local.netlify.app/

@@ -2,7 +2,8 @@
 
 [![Astro](https://img.shields.io/badge/built_with-Astro-ff5a03?style=flat&logo=astro&logoColor=white)](https://astro.build/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Netlify Status](https://img.shields.io/netlify/status/your-site-id?style=flat)](https://app.netlify.com/sites/your-site-id/deploys)
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_NETLIFY_SITE_ID/deploy-status)](https://app.netlify.com/sites/YOUR_NETLIFY_SITE_NAME/deploys) -->
+<!-- Note: To enable the Netlify status badge above, replace YOUR_NETLIFY_SITE_ID and YOUR_NETLIFY_SITE_NAME with your Netlify site details. -->
 
 Private and glossy P2P file sharing for the web, rebuilt with Astro.
 
